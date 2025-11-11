@@ -1,38 +1,26 @@
-# portfolio
+# Personal Portfolio Website
 
-This template should help get you started developing with Vue 3 in Vite.
+A portfolio website built with Vue.js and deployed on GitHub Pages.
 
-## Recommended IDE Setup
+## 🌐 Live Demo
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Visit the live site: [https://bycrn.github.io](https://bycrn.github.io)
 
-## Recommended Browser Setup
+## 📋 About
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+This portfolio showcases my projects, skills, and experience as a student developer specializing in data science, 3D graphics, and software development. The site features a clean, professional design with smooth animations and dark mode support.
 
-## Customize configuration
+## ✨ Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Dark Mode Support**: Automatically adapts to system preferences
+- **Interactive Navigation**: Smooth scrolling and sticky navigation bar
 
-## Project Setup
+## 🛠️ Tech Stack
 
-```sh
-npm install
-```
+- **Framework**: Vue.js 3
+- **Build Tool**: Vite
+- **Styling**: Custom CSS with CSS Variables
+- **Deployment**: GitHub Pages
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
