@@ -1,0 +1,61 @@
+/* Styles pour le composant Contact */
+.contact {
+  background-color: var(--color-surface);
+  border-radius: var(--radius-lg);
+  padding: var(--space-48);
+  text-align: center;
+  border: 1px solid var(--color-card-border);
+}
+
+.contact h2 {
+  font-size: var(--font-size-3xl);
+  margin-bottom: var(--space-16);
+  color: var(--color-text);
+}
+
+.contact p {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-32);
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-24);
+  flex-wrap: wrap;
+}
+
+.contact-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-8);
+  padding: var(--space-12) var(--space-24);
+  background-color: var(--color-primary);
+  color: var(--color-cream-50);
+  text-decoration: none;
+  border-radius: var(--radius-base);
+  font-weight: var(--font-weight-medium);
+  transition: all var(--duration-normal) var(--ease-standard);
+}
+
+.contact-btn:hover {
+  background-color: var(--color-primary-hover);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.contact-btn.secondary {
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+}
+
+.contact-btn.secondary:hover {
+  background-color: var(--color-secondary-hover);
+}
+
+@media (max-width: 768px) {
+  .contact {
+    padding: var(--space-32) var(--space-24);
+  }
+}
