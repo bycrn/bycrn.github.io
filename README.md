@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Portfolio Website for introduction to computer science
 
 A portfolio website built with Vue.js and deployed on GitHub Pages.
 
