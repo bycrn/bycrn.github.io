@@ -6,7 +6,7 @@
     <ContactSection />
     <footer>
       <div class="container">
-        <p>&copy; 2025 Your Name. Built with Vue.js and deployed on GitHub Pages.</p>
+        <p>&copy; 2025 bycrn. Built with Vue.js and deployed on GitHub Pages.</p>
       </div>
     </footer>
   </div>
