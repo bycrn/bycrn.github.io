@@ -4,7 +4,7 @@ A portfolio website built with Vue.js and deployed on GitHub Pages.
 
 ## 🗂️ Repo
 
-The repository : [https://github.com/bycrn/bycrn.github.io]
+The repository : [https://github.com/bycrn/bycrn.github.io](https://github.com/bycrn/bycrn.github.io)
 
 ## 🌐 Live Demo
 
